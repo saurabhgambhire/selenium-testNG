@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-26T22:34:32 IST" name="Default suite" finished-at="2023-06-26T22:35:09 IST" duration-ms="36422">
+    <groups>
+    </groups>
+    <test started-at="2023-06-26T22:34:32 IST" name="Default test" finished-at="2023-06-26T22:35:09 IST" duration-ms="36422">
+      <class name="ActiTime.TestCase1">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:ActiTime.TestCase1@23cd4ff2]" started-at="2023-06-26T22:34:32 IST" name="openBrowser" finished-at="2023-06-26T22:34:39 IST" duration-ms="6997" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:ActiTime.TestCase1@23cd4ff2]" started-at="2023-06-26T22:34:40 IST" name="login" finished-at="2023-06-26T22:34:40 IST" duration-ms="524" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="c(java.lang.String,java.lang.String)[pri:0, instance:ActiTime.TestCase1@23cd4ff2]" started-at="2023-06-26T22:34:40 IST" name="c" data-provider="data" finished-at="2023-06-26T22:34:40 IST" duration-ms="10" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[name]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[saurabh]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- c -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:ActiTime.TestCase1@23cd4ff2]" started-at="2023-06-26T22:34:40 IST" name="logout" finished-at="2023-06-26T22:34:46 IST" duration-ms="5382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:ActiTime.TestCase1@23cd4ff2]" started-at="2023-06-26T22:34:46 IST" name="login" finished-at="2023-06-26T22:34:46 IST" duration-ms="331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="c(java.lang.String,java.lang.String)[pri:0, instance:ActiTime.TestCase1@23cd4ff2]" started-at="2023-06-26T22:34:46 IST" name="c" data-provider="data" finished-at="2023-06-26T22:34:46 IST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[location]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pune]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- c -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:ActiTime.TestCase1@23cd4ff2]" started-at="2023-06-26T22:34:46 IST" name="logout" finished-at="2023-06-26T22:34:50 IST" duration-ms="4415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:ActiTime.TestCase1@23cd4ff2]" started-at="2023-06-26T22:34:50 IST" name="login" finished-at="2023-06-26T22:34:51 IST" duration-ms="322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="b()[pri:2, instance:ActiTime.TestCase1@23cd4ff2]" started-at="2023-06-26T22:34:51 IST" name="b" finished-at="2023-06-26T22:34:51 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:ActiTime.TestCase1@23cd4ff2]" started-at="2023-06-26T22:34:51 IST" name="logout" finished-at="2023-06-26T22:34:55 IST" duration-ms="4689" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:ActiTime.TestCase1@23cd4ff2]" started-at="2023-06-26T22:34:55 IST" name="login" finished-at="2023-06-26T22:34:56 IST" duration-ms="401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="a()[pri:3, instance:ActiTime.TestCase1@23cd4ff2]" started-at="2023-06-26T22:34:56 IST" name="a" finished-at="2023-06-26T22:34:56 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:ActiTime.TestCase1@23cd4ff2]" started-at="2023-06-26T22:34:56 IST" name="logout" finished-at="2023-06-26T22:35:01 IST" duration-ms="4917" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:ActiTime.TestCase1@23cd4ff2]" started-at="2023-06-26T22:35:01 IST" name="login" finished-at="2023-06-26T22:35:01 IST" duration-ms="432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="a()[pri:3, instance:ActiTime.TestCase1@23cd4ff2]" started-at="2023-06-26T22:35:01 IST" name="a" finished-at="2023-06-26T22:35:01 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:ActiTime.TestCase1@23cd4ff2]" started-at="2023-06-26T22:35:01 IST" name="logout" finished-at="2023-06-26T22:35:08 IST" duration-ms="6952" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBroser()[pri:0, instance:ActiTime.TestCase1@23cd4ff2]" started-at="2023-06-26T22:35:08 IST" name="closeBroser" finished-at="2023-06-26T22:35:09 IST" duration-ms="821" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBroser -->
+      </class> <!-- ActiTime.TestCase1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
